@@ -5,5 +5,4 @@ import 'bootstrap/dist/css/bootstrap.css';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
-// const jsxElement = <h1>Our React App</h1>;
-// console.log(jsxElement);
+
